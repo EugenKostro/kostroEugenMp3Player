@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenMp3Player\kostroEugenMp3Player\bin\Debug\kostroEugenMp3Player.exe.config
+C:\Users\kostr\source\repos\kostroEugenMp3Player\kostroEugenMp3Player\bin\Debug\kostroEugenMp3Player.exe
+C:\Users\kostr\source\repos\kostroEugenMp3Player\kostroEugenMp3Player\bin\Debug\kostroEugenMp3Player.pdb
+C:\Users\kostr\source\repos\kostroEugenMp3Player\kostroEugenMp3Player\obj\Debug\kostroEugenMp3Player.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenMp3Player\kostroEugenMp3Player\obj\Debug\kostroEugenMp3Player.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenMp3Player\kostroEugenMp3Player\obj\Debug\kostroEugenMp3Player.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenMp3Player\kostroEugenMp3Player\obj\Debug\kostroEugenMp3Player.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenMp3Player\kostroEugenMp3Player\obj\Debug\kostroEugenMp3Player.exe
+C:\Users\kostr\source\repos\kostroEugenMp3Player\kostroEugenMp3Player\obj\Debug\kostroEugenMp3Player.pdb
